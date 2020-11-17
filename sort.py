@@ -1,4 +1,4 @@
-#Run this code to sort the wastes
+#Run this code to sort the wjknkjkj astes
 
 import subprocess
 import os
